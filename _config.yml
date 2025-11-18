@@ -14,8 +14,7 @@ description:      'A brazen two-column <a href="http://jekyllrb.com" target="_bl
 baseurl:          /
 
 author:
-  name:           'Mark Otto'
-  url:            https://twitter.com/mdo
+  name:           'm'
 
 paginate:         5
 
